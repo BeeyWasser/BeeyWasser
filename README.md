@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BeeyWasser (Amanda Yuna)
+- 👋 Hi, I’m Amanda Yuna
 - 👀 I’m interested in exact sciences in general, such as programming, mathematics, science, robotics, biology and with the exception of philosophy.
 - 🌱 I’m currently learning Json, SQLlalchemy/SQL, Flask and Vue.js.
 - 💞️ I’m looking to collaborate on large applied projects and with different organizations with flexibility and innovation. But also with interesting people in the STEAM and STEM areas.
