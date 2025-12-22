@@ -69,8 +69,9 @@
 <img src="https://cdn.simpleicons.org/gmail/FFFFFF" alt="Email" width="30" height="30" /> </a>
 
 <a href="https://www.linkedin.com/in/amanda-yuna-45980b38a" target="_blank"> 
-<img src="https://cdn.simpleicons.org/linkedin/FFFFFF/000000" alt="LinkedIn" width="30" height="30" />
- </a>
+<h1 style="color: white; font-size: 20px;">LinkedIn</h1>
+</a>
+
 
 <a href="https://linktr.ee/Ydev10" target="_blank">
 <img src="https://cdn.simpleicons.org/linktree/FFFFFF" alt="Linktree" width="30" height="30" />
