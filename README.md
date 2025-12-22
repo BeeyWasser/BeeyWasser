@@ -5,6 +5,11 @@
 <h2>Tecnologies</h2>
 
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
+![CSS3](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
 
 
 
