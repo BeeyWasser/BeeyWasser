@@ -1,14 +1,48 @@
 
-<img src="https://github-readme-stats.vercel.app/api?username=BeeyWasser&theme=dark&hide_border=true">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 
 
-<h2>Tecnologies</h2>
+<!--- BANNER --->
+
+<img src="https://raw.githubusercontent.com/BeeyWasser/BeeyWasser/main/Welcome.png" alt="Banner Amanda Yuna" width="100%">
+
+<h2 style="color: #ffffff; text-align: center">﹝Welcome to my GitHub Profile! 🎮﹞</h2>
+<br>"We must believe that we are talented at certain things, and that this thing, at any cost, must be achieved." - Marie Curie 🧠</br>
+
+
+<!--- TECNOLOGIAS --->
+<h2>Tecnologies < / ></h2>
 
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=flat&logo=c&logoColor=white)
+
+
+<!-- Ícones em baixo pra parte web -->
+<div>
+	<a href="https://www.figma.com" target="_blank" aria-label="Figma">
+		<img src="https://cdn.simpleicons.org/figma/FFFFFF" alt="Figma" width="30" height="30" />
+	</a>&nbsp;&nbsp;
+	<a href="https://www.postgresql.org" target="_blank" aria-label="PostgreSQL">
+		<img src="https://cdn.simpleicons.org/postgresql/FFFFFF" alt="PostgreSQL" width="30" height="30" />
+	</a>&nbsp;&nbsp;
+	<a href="https://git-scm.com" target="_blank" aria-label="Git">
+		<img src="https://cdn.simpleicons.org/git/FFFFFF" alt="Git" width="30" height="30" />
+	</a>&nbsp;&nbsp;
+	<a href="https://github.com/BeeyWasser" target="_blank" aria-label="GitHub">
+		<img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="30" height="30" />
+	</a>
+</div>
 
 
 
-<hr style="border: 0.1px solid #2f2f2f;">
+
+<!--- SOBRE MIM --->
+<h2>About Me 🔭⋆.*:･🪼</h2>
 
 - 👋 Hi, I’m Amanda Yuna
 - 👀 I’m interested in exact sciences in general, such as programming, robotics, biotech and web aplications.
@@ -18,7 +52,49 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Some people don't like the applicability of JavaScript to their codes, or simply don't see much use in it beyond the interaction feature. But it was one of the first languages ​​I learned to program.
 
-<!---
-BeeyWasser/BeeyWasser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+<!--- REDE SOCIAL --->
+<h2>Social Accounts 💜</h2>
+<h4>How to reach me .⊹ ࣪ ˖</h4>
+
+
+<div style="display: flex; gap: 5px; margin-bottom: 20px;">
+<a href="https://discordapp.com/users/marie_curie_yzkx" target="_blank"> 
+<i class="fa-brands fa-discord" style="font-size: 30px; color: #ffffffff;"></i> 
+</a> 
+
+<a href="https://x.com/Yunadevkxz" target="_blank"> 
+<i class="fa-brands fa-twitter" style="font-size: 30px; color: #ffffffff;"></i> 
+</a> 
+
+<a href="mailto:amandayunasouzalima@gmail.com"> 
+<i class="fa-solid fa-envelope" style="font-size: 30px; color: #ffffffff;"></i> 
+</a> 
+
+<a href="https://www.linkedin.com/in/amanda-yuna-45980b38a" target="_blank"> 
+<i class="fa-brands fa-linkedin-in" style="font-size: 30px; color: #ffffffff;"></i> 
+</a>
+
+<a href="https://linktr.ee/Ydev10" target="_blank">
+<img src="https://cdn.simpleicons.org/linktree/FFFFFF" alt="Linktree" width="30" height="30" />
+</a>
+
+</div>
+
+
+<!--- ESTATÍSTICAS --->
+
+<!-- Agrupamento: os dois primeiros cards lado a lado -->
+<div style="display: flex; gap: 10px;">
+	<img src="https://github-readme-stats.vercel.app/api?username=BeeyWasser&theme=nightowl&hide_border=true" alt="GitHub stats" />
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=BeeyWasser&theme=nightowl" alt="GitHub Streak" />
+</div>
+
+
+
+
+<!--- BeeyWasser/BeeyWasser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
