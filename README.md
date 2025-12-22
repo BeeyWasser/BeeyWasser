@@ -1,7 +1,4 @@
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-
-
 <!--- BANNER --->
 
 <img src="https://raw.githubusercontent.com/BeeyWasser/BeeyWasser/main/Welcome.png" alt="Banner Amanda Yuna" width="100%">
@@ -62,26 +59,25 @@
 
 <div style="display: flex; gap: 5px; margin-bottom: 20px;">
 <a href="https://discordapp.com/users/marie_curie_yzkx" target="_blank"> 
-<i class="fa-brands fa-discord" style="font-size: 30px; color: #ffffffff;"></i> 
-</a> 
+<img src="https://cdn.simpleicons.org/discord/FFFFFF" alt="Discord" width="30" height="30" />
+</a>
 
 <a href="https://x.com/Yunadevkxz" target="_blank"> 
-<i class="fa-brands fa-twitter" style="font-size: 30px; color: #ffffffff;"></i> 
-</a> 
+<img src="https://cdn.simpleicons.org/x/FFFFFF" alt="Twitter" width="30" height="30" /> </a>
 
 <a href="mailto:amandayunasouzalima@gmail.com"> 
-<i class="fa-solid fa-envelope" style="font-size: 30px; color: #ffffffff;"></i> 
-</a> 
+<img src="https://cdn.simpleicons.org/gmail/FFFFFF" alt="Email" width="30" height="30" /> </a>
 
 <a href="https://www.linkedin.com/in/amanda-yuna-45980b38a" target="_blank"> 
-<i class="fa-brands fa-linkedin-in" style="font-size: 30px; color: #ffffffff;"></i> 
-</a>
+<img src="https://cdn.simpleicons.org/linkedin/FFFFFF/000000" alt="LinkedIn" width="30" height="30" />
+ </a>
 
 <a href="https://linktr.ee/Ydev10" target="_blank">
 <img src="https://cdn.simpleicons.org/linktree/FFFFFF" alt="Linktree" width="30" height="30" />
 </a>
 
 </div>
+
 
 
 <!--- ESTATÍSTICAS --->
