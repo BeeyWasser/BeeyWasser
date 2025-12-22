@@ -82,8 +82,8 @@
 
 <!--- ESTATÍSTICAS --->
 
-<!-- Agrupamento: os dois primeiros cards lado a lado -->
-<div>
+<!-- Agrupando os cards lado a lado -->
+<div style="display: flex; gap: 5px;">
 	<img src="https://github-readme-stats.vercel.app/api?username=BeeyWasser&theme=nightowl&hide_border=true" alt="GitHub stats" />
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=BeeyWasser&theme=nightowl" alt="GitHub Streak" />
 </div>
