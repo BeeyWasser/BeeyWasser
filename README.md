@@ -39,7 +39,7 @@
 
 
 <!--- SOBRE MIM --->
-<h2>About Me 🔭⋆.*:･🪼</h2>
+<h2>About Me🔭⋆.*:･🪼</h2>
 
 - 👋 Hi, I’m Amanda Yuna
 - 👀 I’m interested in exact sciences in general, such as programming, robotics, biotech and web aplications.
@@ -68,14 +68,13 @@
 <a href="mailto:amandayunasouzalima@gmail.com"> 
 <img src="https://cdn.simpleicons.org/gmail/FFFFFF" alt="Email" width="30" height="30" /> </a>
 
-<a href="https://www.linkedin.com/in/amanda-yuna-45980b38a" target="_blank"> 
-<h1 style="color: white;">LinkedIn</h1>
-</a>
-
-
 <a href="https://linktr.ee/Ydev10" target="_blank">
 <img src="https://cdn.simpleicons.org/linktree/FFFFFF" alt="Linktree" width="30" height="30" />
 </a>
+
+<br>See my <a href="https://www.linkedin.com/in/amanda-yuna-45980b38a" target="_blank"><br>LinkedIn</br></a>
+</br>
+
 
 </div>
 
@@ -84,7 +83,7 @@
 <!--- ESTATÍSTICAS --->
 
 <!-- Agrupamento: os dois primeiros cards lado a lado -->
-<div style="display: flex; gap: 10px;">
+<div>
 	<img src="https://github-readme-stats.vercel.app/api?username=BeeyWasser&theme=nightowl&hide_border=true" alt="GitHub stats" />
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=BeeyWasser&theme=nightowl" alt="GitHub Streak" />
 </div>
