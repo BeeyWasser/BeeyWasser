@@ -69,7 +69,7 @@
 <img src="https://cdn.simpleicons.org/gmail/FFFFFF" alt="Email" width="30" height="30" /> </a>
 
 <a href="https://www.linkedin.com/in/amanda-yuna-45980b38a" target="_blank"> 
-<h1 style="color: white; font-size: 20px;">LinkedIn</h1>
+<h1 style="color: white;">LinkedIn</h1>
 </a>
 
 
