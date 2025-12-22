@@ -1,6 +1,5 @@
 
-<img src="https://www.canva.com/design/DAG8QBc6sYs/m8vWDwrdqk9XUSXMlzN5gg/edit?utm_content=DAG8QBc6sYs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="100%">
-
+<hr style="border: 0.5px solid #2f2f2f;">
 
 - 👋 Hi, I’m Amanda Yuna
 - 👀 I’m interested in exact sciences in general, such as programming, robotics, biotech and web aplications.
