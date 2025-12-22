@@ -83,10 +83,17 @@
 <!--- ESTATÍSTICAS --->
 
 <!-- Agrupando os cards lado a lado -->
-<div style="display: flex; gap: 5px;">
-	<img src="https://github-readme-stats.vercel.app/api?username=BeeyWasser&theme=nightowl&hide_border=true" alt="GitHub stats" />
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=BeeyWasser&theme=nightowl" alt="GitHub Streak" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=BeeyWasser&theme=nightowl&hide_border=true" alt="GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=BeeyWasser&theme=nightowl" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
 
 
 
