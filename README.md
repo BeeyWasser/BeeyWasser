@@ -3,13 +3,16 @@
 
 <img src="https://raw.githubusercontent.com/BeeyWasser/BeeyWasser/main/Welcome.png" alt="Banner Amanda Yuna" width="100%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Developer+%7C+Scientist+Mindset;Python+%7C+Web+%7C+Biotech+%7C+Design;Building+things+that+actually+matter" />
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Biotech+%7C+Developer+%7C+Science;Building+things+that+actually+matter;Python+-+Design+-+Web+-+Research" alt="Typing SVG"/>
 
+<h2>﹝Welcome to my GitHub Profile! 🎮﹞</h2>
 
-<h2 style="color: #ffffff; text-align: center">﹝Welcome to my GitHub Profile! 🎮﹞</h2>
 <br>"We must believe that we are talented at certain things, and that this thing, at any cost, must be achieved." - Marie Curie 🧠</br>
+</div>
 
-
+<br />
+<br />
 <!--- TECNOLOGIAS --->
 <h2>Tecnologies < / ></h2>
 
@@ -40,7 +43,7 @@
 
 
 
-
+<br />
 <!--- SOBRE MIM --->
 <h2>About Me🔭⋆.*:･🪼</h2>
 
@@ -54,7 +57,7 @@
 
 
 
-
+<br />
 <!--- REDE SOCIAL --->
 <h2>Social Accounts 💜</h2>
 <h4>How to reach me .⊹ ࣪ ˖</h4>
@@ -81,6 +84,7 @@
 
 </div>
 
+> I build systems where logic, design and science actually meet. I build systems where logic, design and science actually meet. Let's build a something amazing!
 
 
 <!--- ESTATÍSTICAS --->
