@@ -3,6 +3,9 @@
 
 <img src="https://raw.githubusercontent.com/BeeyWasser/BeeyWasser/main/Welcome.png" alt="Banner Amanda Yuna" width="100%">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Developer+%7C+Scientist+Mindset;Python+%7C+Web+%7C+Biotech+%7C+Design;Building+things+that+actually+matter" />
+
+
 <h2 style="color: #ffffff; text-align: center">﹝Welcome to my GitHub Profile! 🎮﹞</h2>
 <br>"We must believe that we are talented at certain things, and that this thing, at any cost, must be achieved." - Marie Curie 🧠</br>
 
@@ -95,7 +98,12 @@
 </table>
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeeyWasser&layout=compact&theme=nightowl&hide_border=true" />
+    
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BeeyWasser&theme=nightowl&hide_border=true" />
 
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 
 <!--- BeeyWasser/BeeyWasser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
