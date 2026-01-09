@@ -6,7 +6,6 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Biotech+%7C+Developer+%7C+Science;Building+things+that+actually+matter;Python+-+Design+-+Web+-+Research" alt="Typing SVG"/>
 
-<h2>﹝Welcome to my GitHub Profile! 🎮﹞</h2>
 
 <br>"We must believe that we are talented at certain things, and that this thing, at any cost, must be achieved." - Marie Curie 🧠</br>
 </div>
@@ -14,7 +13,7 @@
 <br />
 <br />
 <!--- TECNOLOGIAS --->
-<h2>Tecnologies < / ></h2>
+<h2>Tech Stack</h2>
 
 ![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white)
@@ -59,8 +58,8 @@
 
 <br />
 <!--- REDE SOCIAL --->
-<h2>Social Accounts 💜</h2>
-<h4>How to reach me .⊹ ࣪ ˖</h4>
+<h2>Social Accounts </h2>
+<h4>How to reach me</h4>
 
 
 <div style="display: flex; gap: 5px; margin-bottom: 20px;">
@@ -83,9 +82,6 @@
 
 
 </div>
-
-> I build systems where logic, design and science actually meet. I build systems where logic, design and science actually meet. Let's build a something amazing!
-
 
 <!--- ESTATÍSTICAS --->
 
