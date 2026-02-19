@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/BeeyWasser/BeeyWasser/main/Welcome.png" alt="Banner Amanda Yuna" width="100%">
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Biotech+%7C+Developer+%7C+Science;Building+things+that+actually+matter;Python+-+Design+-+Web+-+Research" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Biotech+%7C+Developer+%7C+Science;Building+things+that+actually+matter;Code+-+Design+-+Web+-+Research" alt="Typing SVG"/>
 
 <br>"We must believe that we are talented at certain things, and that this thing, at any cost, must be achieved." - Marie Curie 🧠</br>
 </div>
